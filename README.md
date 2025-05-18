@@ -25,6 +25,9 @@ script/
 
 ### 🆔 ID Rules
 
+- The `cards.cdb` file must have a **unique filename**.
+- ❌ Do **not** name your file `cards.cdb`. Choose a different, identifiable name (e.g., `yourname_cards.cdb`).
+
 - All card IDs **must start with `102021xx`** (e.g., `10202101`, `10202102`, etc.).
 - Avoid conflicts by checking the [`ids.txt`](./ids.txt) file before submitting.
 - ⚠️ **Users are responsible for making sure their IDs are unique.**
